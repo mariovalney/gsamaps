@@ -20,7 +20,7 @@ It's simple to use, you just have to complete the **embaixadores.JSON** (example
 ## Credits
 
 * Developer: Mário Valney (@mariovalney)
-* URL: http://www2.opovo.com.br/trellatorio/
+* URL: http://mariovalney.github.io/gsamaps/
 * Tags: google maps, google students ambassador, gsa
 * API Version: 1.0
 * License: MIT
