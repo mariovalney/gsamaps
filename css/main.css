@@ -134,6 +134,8 @@ footer {
     text-shadow: -0.1em 0.1em 0.1em #000;
 }
 
+footer.mobile { display: none }
+
 footer a {
     color: #fff;
     font-weight: bold;
@@ -156,5 +158,24 @@ footer a:hover { text-decoration: underline }
         margin: 1em 0 1.2em 0;
         padding-left: 0;
         width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        width: 6em;
+        margin: 0;
+    }
+    .logo h1, footer {
+        display: none;
+    }
+    select {
+        max-width: 90%;
+    }
+    footer.mobile {
+        display: block;
+    }
+    #mapa-mundi .gmnoprint {
+        display: none!important;
     }
 }
