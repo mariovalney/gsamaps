@@ -1,0 +1,232 @@
+{
+    "embaixadores":[
+        {
+            "nome":"Mário Valney",
+            "instituição":"Faculdade de Tecnologia Evolução",
+            "localização":"-3.728934, -38.535374",
+            "profile":"113742912049007660794"
+        },
+        {
+            "nome":"Guilherme Torres Castro",
+            "instituição":"Pontifícia Universidade Católica de Minas Gerais",
+            "localização":"-19.923327, -43.992464"
+        },
+        {
+            "nome":"Thiago Stelle Teixeira",
+            "instituição":"Universidade Federal do Paraná",
+            "localização":"-25.444930, -49.239355﻿"
+        },
+        {
+            "nome":"Victor Augusto",
+            "instituição":"IFPB Instituto Federal da Paraíba",
+            "localização":"-6.778729, -38.230011"
+        },
+        {
+            "nome":"Carlos Paixão",
+            "instituição":"CEFETMG  Centro Federal de Educação Tecnológica de Minas Gerais",
+            "localização":"-20.169731, -44.908945"
+        },
+        {
+            "nome":"Gabriela Meneghel Colla Mattia",
+            "instituição":"PUCRS Pontifícia Universidade Católica do Rio Grande do Sul",
+            "localização":"-30.060540, -51.170919"
+        },
+        {
+            "nome":"Sthéfany Cechinel",
+            "instituição":"Instituto Federal de Santa Catarina",
+            "localização":"-27.608130, -48.633144"
+        },
+        {
+            "nome":"Gelson Junior Donatti Schimith Berger",
+            "instituição":"UFES Universidade Federal do Espírito Santo",
+            "localização":"-20.2722883, -40.3026116"
+        },
+        {
+            "nome":"Camilla Paiva",
+            "instituição":"UFC Universidade Federal do Ceará",
+            "localização":"-3.744669, -38.577270"
+        },
+        {
+            "nome":"Renato Mendes Rocha",
+            "instituição":"UFSC Universidade Federal de Santa Catarina",
+            "localização":"-27.600478, -48.520418"
+        },
+        {
+            "nome":"Felipe Almeida",
+            "instituição":"Fanor Faculdades Nordeste",
+            "localização":"-3.750458, -38.462844"
+        },
+        {
+            "nome":"Diego Hammes Hoffmann",
+            "instituição":"ULBRA Universidade Luterana do Brasil",
+            "localização":"-29.886418, -51.166027"
+        },
+        {
+            "nome":"Maicon da Silva Galhardi",
+            "instituição":"USJT Universidade São Judas Tadeu",
+            "localização":"-23.551405, -46.597710"
+        },
+        {
+            "nome":"Vinicius Gonçalves",
+            "instituição":"UFRRJ - Universidade Federal Rural do Rio de Janeiro",
+            "localização":"-22.763405,-43.688174",
+            "profile":"105601302569927527065"
+        },
+        {
+            "nome":"Gabriel Felix Silva",
+            "instituição":"INFNET Instituto Infnet",
+            "localização":"-22.905935, -43.176722"
+        },
+        {
+            "nome":"Ícaro Bolotari",
+            "instituição":"UFJF Universidade Federal de Juiz de Fora",
+            "localização":"-21.775123, -43.368941"
+        },
+        {
+            "nome":"Gabrielz vaz",
+            "instituição":"CEULP/ULBRA Centro Universitário Luterano de Palmas",
+            "localização":"-10.278012, -48.333363"
+        },
+        {
+            "nome":"Marcelo Ap. Ferreira Pinheiro",
+            "instituição":"PUCPR Pontifícia Universidade Católica do Paraná",
+            "localização":"-25.450555, -49.250915"
+        },
+        {
+            "nome":"Maximillian Xavier",
+            "instituição":"Universidade Católica de Brasília",
+            "localização":"-15.741775, -47.903267"
+        },
+        {
+            "nome":"Juliano Theiss",
+            "instituição":"IFC - Instituto Federal Catarinense Campus Camboriu",
+            "localização":"-27.015642, -48.658893"
+        },
+        {
+            "nome":"Jordan Lira",
+            "instituição":"UFPB Universidade Federal da Paraíba",
+            "localização":"-7.1419849, -34.8466809"
+        },
+        {
+            "nome":"Raul Carlos de Almeida Junior",
+            "instituição":"USP Universidade de São Paulo",
+            "localização":"-23.561384, -46.730810"
+        },
+        {
+            "nome":"Eduardo Emery",
+            "instituição":"UPE Universidade de Pernambuco",
+            "localização":"-8.044206, -34.886521"
+        },
+        {
+            "nome":"Tiago Falcão",
+            "instituição":"UNICAMP Universidade Estadual de Campinas",
+            "localização":"-22.817099, -47.069763"
+        },
+        {
+            "nome":"Alexandre Souza",
+            "instituição":"Faculdade de Tecnologia e Ciências (FTC-EAD)",
+            "localização":"-12.971049, -38.512953﻿"
+        },
+        {
+            "nome":"Mateus Cunha",
+            "instituição":"UVA Universidade Veiga de Almeida",
+            "localização":"-22.911667, -43.220833"
+        },
+        {
+            "nome":"Leonardo Barbosa",
+            "instituição":"Instituto Federal de Sergipe",
+            "localização":"-10.9385556, -37.6577898"
+        },
+        {
+            "nome":"Stefan Wysocki",
+            "instituição":"UFABC Universidade Federal do ABC",
+            "localização":"-23.645653, -46.527251"
+        },
+        {
+            "nome":"Lucas Bressan de Andrade",
+            "instituição":"UFRJ Universidade Federal do Rio de Janeiro",
+            "localização":"-22.954106, -43.175364"
+        },
+        {
+            "nome":"Cleber Santana",
+            "instituição":"UFABC Universidade Federal do ABC",
+            "localização":"-23.646151, -46.527757"
+        },
+        {
+            "nome":"Alexandre Creto",
+            "instituição":"UNICAMP Universidade Estadual de Campinas",
+            "localização":"-22.8180743, -47.0661774﻿"
+        },
+        {
+            "nome":"Felipe Porge Xavier",
+            "instituição":"IFPB Instituto Federal da Paraíba",
+            "localização":"-7.131880, -34.881598"
+        },
+        {
+            "nome":"Gabriel Martins",
+            "instituição":"UFU Universidade Federal de Uberlândia",
+            "localização":"-18.918136, -48.260278"
+        },
+        {
+            "nome":"Fernando Rubio",
+            "instituição":"ITESM Guadalajara",
+            "localização":"20.732877,-103.454325",
+            "profile":"FernandoLopezRubio1"
+        },
+        {
+            "nome":"Tiago Rezende Campos Falcão",
+            "instituição":"UNICAMP - University of Campinas",
+            "localização":"-22.813496, -47.063942",
+            "profile":"TiagoRezendeCamposFalcao"
+        },
+        {
+            "nome":"Anayara Arias",
+            "instituição":"Universidad Autónoma de Baja California",
+            "localização":"32.532809, -116.965645",
+            "profile":"AnayaraAria"
+        },
+        {
+            "nome":"Octavio Jiménez Blanco",
+            "instituição":"Universidad Panamericana",
+            "localização":"19.373647, -99.183704",
+            "profile":"116418219111775604570"
+        },
+        {
+            "nome":"Maria Beltran",
+            "instituição":"Universidad Panamericana",
+            "localização":"19.374103, -99.183704",
+            "profile":"MariaBeltranAR"
+        },
+        {
+            "nome":"Juan Manuel Guerrero",
+            "instituição":"ITESM campus laguna",
+            "localização":"25.516738, -103.398175",
+            "profile":"JuanGuerreroGomez"
+        },
+        {
+            "nome":"Guillermo Vera",
+            "instituição":"UNAM",
+            "localização":"19.322168,-99.182282",
+            "profile":"GuillermoEleazarVeraLópez"
+        },
+        {
+            "nome":"Ricardo Rodarte",
+            "instituição":"Universidad Anáhuac México Norte",
+            "localização":"19.401899,-99.2639",
+            "profile":"116491058349343928766"
+        },
+        {
+            "nome":"Víctor Colín Amador",
+            "instituição":"Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Estado de México",
+            "localização":"19.5890847,-99.2181056",
+            "profile":"115930980885496169606"
+        }
+    ]
+}
+
+
+
+
+
+
+

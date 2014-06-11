@@ -1,0 +1,52 @@
+<!Doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    	<meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width" />
+    	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+        <title>GSA LatAm - Maps</title>
+
+    	<!--[if IE]><link rel="shortcut icon" href="img/favicon.ico"><![endif]-->
+    	<link href="img/favicon.png" rel="icon" />
+    	<meta property="og:type" content="website" /> 
+        <meta property="og:url" content="http://projetos.jangal.com.br/gsa/" /> 
+        <meta property="og:title" content="GSA LatAm - Maps" /> 
+        <meta property="og:description" content="Where are the GSAs?" /> 
+        <meta property="og:image" content="img/screenshot.jpg" /> 
+
+
+        <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEa2jCBZf47UYvIGzQrMkVNyujmZ7fGjQ&sensor=false"></script>
+    </head>
+    <body>
+        <header>
+            <div class="hud">
+                <a class="logo" href="http://projetos.jangal.com.br/gsa/"><h1>GSA LatAm</h1></a>
+                <ul>
+                    <!--<li class="fake-btn" id=""></li>-->
+                    <li id="embaixadores">
+                        Ambassador:
+                        <select>
+                            <option id="neutro">Select a Google Ambassador.</option>
+                        </select>
+                    </li>
+                </ul>
+                <div class="social">
+                    <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+                        <a class="addthis_button_google_plusone_share" title="+1"></a>
+                        <a class="addthis_button_twitter" title="Spread the Word!"></a>
+                        <a class="github" href="https://github.com/mariovalney/gsamaps" target="_blank" title="Fork me on Git Hub"></a>
+                    </div>
+                    <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+                    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ef8d7f05ba21d02"></script>
+                </div>
+            </div>
+            <p class="fake-btn fechar-header"> X </p>
+        </header>
+        <div id="mapa-mundi"></div>
+
+        <footer>| Developed with love by <a href="http://google.com/+MarioValney" target="_blank">Mário Valney</a>.</footer>
+        <script src="js/main.js"></script>        
+    </body>
+</html>  
