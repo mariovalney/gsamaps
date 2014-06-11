@@ -49,7 +49,7 @@
         {
             "nome":"Renato Mendes Rocha",
             "instituição":"UFSC Universidade Federal de Santa Catarina",
-            "localização":"-27.602467, -48.523568"
+            "localização":"-27.602467, -48.523568",
             "profile": "103151954260436774226"
         },
         {
@@ -221,13 +221,36 @@
             "instituição":"Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Estado de México",
             "localização":"19.5890847,-99.2181056",
             "profile":"115930980885496169606"
+        },
+        {
+            "nome":"Diego Andres Solorzano Garcia",
+            "instituição":"CETYS ",
+            "localização":"31.855171, -116.598587",
+            "profile":"106992289899645849250"
+        },
+        {
+            "nome":"José Ernesto Díaz Martínez",
+            "instituição":"Tecnológico de Monterrey Campus Morelia",
+            "localização":"19.656209, -101.163838",
+            "profile":"JoséErnestoDiazMartinez0516"
+        },
+        {
+            "nome":"Gerardo Espinoza ",
+            "instituição":"ITESM GDA",
+            "localização":"20.734559,-103.455709",
+            "profile":"GerardoEspinozaH"
+        },
+        {
+            "nome":"Rosaura Guadalupe Vidal Mata",
+            "instituição":"ITESM Campus Cuernavaca",
+            "localização":"18.806020, -99.221660",
+            "profile":"RosauraVidalMata"
+        },
+        {
+            "nome":"Andrés Zavala",
+            "instituição":"Universidad Tecnológica de Morelia",
+            "localização":"19.726655,-101.162367",
+            "profile":"AndrésZavala"
         }
     ]
 }
-
-
-
-
-
-
-
