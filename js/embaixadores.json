@@ -261,13 +261,13 @@
         {
             "nome":"Alexis Rangel",
             "instituição":"Universidad Iberoamericana Tijuana",
-            "localização":" 32.518468, -117.100857",
+            "localização":"32.518468, -117.100857",
             "profile":"115399192743375034954"
         },
         {
             "nome":"Enrique Marroquin",
             "instituição":"Tecnologico de Monterrey Campus Monterey",
-            "localização":" 25.651778, -100.289572",
+            "localização":"25.651778, -100.289572",
             "profile":"EnriqueMarroquinA"
         },
         {
@@ -285,13 +285,13 @@
         {
             "nome":"Uriel Luviano",
             "instituição":"UNAM",
-            "localização":"19.324994°, -99.1856°",
+            "localização":"19.324994, -99.1856",
             "profile":"UrielLuviano"
         },
         {
             "nome":"Luis Carlo García Duarte",
             "instituição":"Universidad de Colima",
-            "localização":" 19.248687, -103.698612",
+            "localização":"19.248687, -103.698612",
             "profile":"103031605157832907927"
         }
     ]
