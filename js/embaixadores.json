@@ -59,8 +59,9 @@
         },
         {
             "nome":"Diego Hammes Hoffmann",
-            "instituição":"ULBRA Universidade Luterana do Brasil",
-            "localização":"-29.886418, -51.166027"
+            "instituição":"Ulbra Gravataí",
+            "localização":"-29.919673, -51.012268",
+            "profile":"DiegoHHoffmann90"
         },
         {
             "nome":"Maicon da Silva Galhardi",
@@ -119,11 +120,6 @@
             "localização":"-8.044206, -34.886521"
         },
         {
-            "nome":"Tiago Falcão",
-            "instituição":"UNICAMP Universidade Estadual de Campinas",
-            "localização":"-22.817099, -47.069763"
-        },
-        {
             "nome":"Alexandre Souza",
             "instituição":"Faculdade de Tecnologia e Ciências (FTC-EAD)",
             "localização":"-12.971049, -38.512953﻿"
@@ -155,7 +151,7 @@
         },
         {
             "nome":"Alexandre Creto",
-            "instituição":"UNICAMP Universidade Estadual de Campinas",
+            "instituição":"UNICAMP - Universidade de Campinas",
             "localização":"-22.8180743, -47.0661774﻿"
         },
         {
@@ -169,16 +165,22 @@
             "localização":"-18.918136, -48.260278"
         },
         {
+            "nome":"Tiago Rezende Campos Falcão",
+            "instituição":"UNICAMP - Universidade de Campinas",
+            "localização":"-22.813496, -47.063942",
+            "profile":"TiagoRezendeCamposFalcao"
+        },
+        {
+            "nome":"Tiago Anozé Emerick",
+            "instituição":"Universidade Católica de Brasília",
+            "localização":"-15.741538, -47.903235",
+            "profile":"TiagoEmerickA"
+        },
+        {
             "nome":"Fernando Rubio",
             "instituição":"ITESM Guadalajara",
             "localização":"20.732877,-103.454325",
             "profile":"FernandoLopezRubio1"
-        },
-        {
-            "nome":"Tiago Rezende Campos Falcão",
-            "instituição":"UNICAMP - University of Campinas",
-            "localização":"-22.813496, -47.063942",
-            "profile":"TiagoRezendeCamposFalcao"
         },
         {
             "nome":"Anayara Arias",
@@ -273,7 +275,7 @@
         {
             "nome":"Josemaria Moya",
             "instituição":"CETYS ",
-            "localização":"+32.53333, -117.01667",
+            "localização":"32.53333, -117.01667",
             "profile":"106389304124780637707"
         },
         {
@@ -293,6 +295,102 @@
             "instituição":"Universidad de Colima",
             "localização":"19.248687, -103.698612",
             "profile":"103031605157832907927"
+        },
+        {
+            "nome":"Jair Said Hernández Reyes",
+            "instituição":"Escuela Superior de Cómputo",
+            "localização":"19.504569,-99.146653",
+            "profile":"112791595801726811731"
+        },
+        {
+            "nome":"Eduardo Escamilla",
+            "instituição":"Tec de Monterrey",
+            "localização":"28.6735918,-106.0765903",
+            "profile":"110849974581541390880"
+        },
+        {
+            "nome":"Jose Luis Ramos Fernandez",
+            "instituição":"Instituto Tecnologico de la Laguna",
+            "localização":"25.533279210710607,-103.43596899140164",
+            "profile":"JoseLuisRamos93"
+        },
+        {
+            "nome":"Max Curiel",
+            "instituição":"UDG",
+            "localização":"20.76125,-103.378816",
+            "profile":"MaxCuriel"
+        },
+        {
+            "nome":"César Islas",
+            "instituição":"UNAM",
+            "localização":"19.331354, -99.184491",
+            "profile":"CesarIslas"
+        },
+        {
+            "nome":"Daniel Seiji Ohara Kondo",
+            "instituição":"Instituto Tecnológico y Estudios Superiores de Monterrey - Campus Santa Fe",
+            "localização":"19.359479,-99.258127",
+            "profile":"SeijiOhara"
+        },
+        {
+            "nome":"Angel Rodolfo Perez Quintana",
+            "instituição":"Universidad Nacional Autonoma de Mexico ",
+            "localização":"19.325001, -99.185605",
+            "profile":"107313197057660110109"
+        },
+        {
+            "nome":"David I.Ruiz",
+            "instituição":"Benemerita Universidad Autonoma de Puebla",
+            "localização":"19.004489, -98.203580",
+            "profile":"DavidIRock"
+        },
+        {
+            "nome":"Gabriela Lopez",
+            "instituição":"UABC",
+            "localização":"32.632633, -115.445882",
+            "profile":"GabrielaLopezI"
+        },
+        {
+            "nome":"Lucia Berlanga",
+            "instituição":"Universidad Iberoamericana",
+            "localização":"19.371845, -99.263574",
+            "profile":"LuciaBerlanga"
+        },
+        {
+            "nome":"Jonathan Reyes López",
+            "instituição":"Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Ciudad de México",
+            "localização":"19.283575, -99.136338",
+            "profile":"JonathanReyesLopez"
+        },
+        {
+            "nome":"Nora Naranjo",
+            "instituição":"CETYS Universidad - Campus Mexicali",
+            "localização":"32.655766, -115.408330",
+            "profile":"NoraNaranjo"
+        },
+        {
+            "nome":"Daniel Villarreal",
+            "instituição":"Instituto Tecnológico de Sonora",
+            "localização":"27.967944, -110.920222",
+            "profile":"DanieldeJesúsVillarrealDelgado"
+        },
+        {
+            "nome":"Paulina Alarcón",
+            "instituição":"Tecnológico de Monterrey campus Estado de México",
+            "localização":"19.594541, -99.228018",
+            "profile":"PaulinaAlarcónPaupatina"
+        },
+        {
+            "nome":"Gabriela Lopez",
+            "instituição":"UABC",
+            "localização":"32.6634130, -115.4684460",
+            "profile":"GabrielaLopezI"
+        },
+        {
+            "nome":"Rodolfo Ferro",
+            "instituição":"Universidad de Guanajuato",
+            "localização":"21.041264, -101.260805",
+            "profile":"RodolfoFerro"
         }
     ]
 }
