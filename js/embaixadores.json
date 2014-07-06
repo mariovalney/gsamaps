@@ -92,7 +92,7 @@
         {
             "nome":"Marcelo Ap. Ferreira Pinheiro",
             "instituição":"PUCPR Pontifícia Universidade Católica do Paraná",
-            "localização":"-25.450555, -49.250915"
+            "localização":"-25.452154, -49.249756"
         },
         {
             "nome":"Maximillian Xavier",
@@ -375,16 +375,22 @@
             "profile":"DanieldeJesúsVillarrealDelgado"
         },
         {
-            "nome":"Paulina Alarcón",
-            "instituição":"Tecnológico de Monterrey campus Estado de México",
-            "localização":"19.594541, -99.228018",
-            "profile":"PaulinaAlarcónPaupatina"
-        },
-        {
             "nome":"Rodolfo Ferro",
             "instituição":"Universidad de Guanajuato",
             "localização":"21.041264, -101.260805",
             "profile":"RodolfoFerro"
+        },
+        {
+            "nome":"Paulina Alarcón",
+            "instituição":"Tecnológico de Monterrey campus Estado de México",
+            "localização":"19.594379, -99.227911",
+            "profile":"PaulinaAlarcónPaupatina
+        },
+        {
+            "nome":"Mario Sugus",
+            "instituição":"UNAM",
+            "localização":"19.335513, -99.188115",
+            "profile":"MarioSugus"
         }
     ]
 }
