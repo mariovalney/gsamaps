@@ -1,0 +1,436 @@
+{
+    "embaixadores":[
+        {
+            "nome":"Mário Valney",
+            "instituicao":"Faculdade de Tecnologia Evolução",
+            "lat": "-3.728934",
+            "lng": "-38.535374"
+        },
+        {
+            "nome":"Guilherme Torres Castro",
+            "instituicao":"Pontifícia Universidade Católica de Minas Gerais",
+            "lat": "-19.923327",
+            "lng": "-43.992464"
+        },
+        {
+            "nome":"Thiago Stelle Teixeira",
+            "instituicao":"Universidade Federal do Paraná",
+            "lat": "-25.444930",
+            "lng": "-49.2393555"
+        },
+        {
+            "nome":"Victor Augusto",
+            "instituicao":"IFPB Instituto Federal da Paraíba",
+            "lat": "-6.778729",
+            "lng": "-38.230011"
+        },
+        {
+            "nome":"Carlos Paixão",
+            "instituicao":"CEFETMG  Centro Federal de Educação Tecnológica de Minas Gerais",
+            "lat": "-20.169731",
+            "lng": "-44.908945"
+        },
+        {
+            "nome":"Gabriela Meneghel Colla Mattia",
+            "instituicao":"PUCRS Pontifícia Universidade Católica do Rio Grande do Sul",
+            "lat": "-30.060540",
+            "lng": "-51.170919"
+        },
+        {
+            "nome":"Sthéfany Cechinel",
+            "instituicao":"Instituto Federal de Santa Catarina",
+            "lat": "-27.608130",
+            "lng": "-48.633144"
+        },
+        {
+            "nome":"Gelson Junior Donatti Schimith Berger",
+            "instituicao":"UFES Universidade Federal do Espírito Santo",
+            "lat": "-20.2722883",
+            "lng": "-40.3026116"
+        },
+        {
+            "nome":"Camilla Paiva",
+            "instituicao":"UFC Universidade Federal do Ceará",
+            "lat": "-3.744669",
+            "lng": "-38.577270"
+        },
+        {
+            "nome":"Renato Mendes Rocha",
+            "instituicao":"UFSC Universidade Federal de Santa Catarina",
+            "lat": "-27.602467",
+            "lng": "-48.523568"
+        },
+        {
+            "nome":"Felipe Almeida",
+            "instituicao":"Fanor Faculdades Nordeste",
+            "lat": "-3.750458",
+            "lng": "-38.462844"
+        },
+        {
+            "nome":"Diego Hammes Hoffmann",
+            "instituicao":"Ulbra Gravataí",
+            "lat": "-29.919673",
+            "lng": "-51.012268"
+        },
+        {
+            "nome":"Maicon da Silva Galhardi",
+            "instituicao":"USJT Universidade São Judas Tadeu",
+            "lat": "-23.551405",
+            "lng": "-46.597710"
+        },
+        {
+            "nome":"Vinicius Gonçalves",
+            "instituicao":"UFRRJ - Universidade Federal Rural do Rio de Janeiro",
+            "lat": "-22.763405",
+            "lng":-"43.688174"
+        },
+        {
+            "nome":"Gabriel Felix Silva",
+            "instituicao":"INFNET Instituto Infnet",
+            "lat": "-22.905935",
+            "lng": "-43.176722"
+        },
+        {
+            "nome":"Ícaro Bolotari",
+            "instituicao":"UFJF Universidade Federal de Juiz de Fora",
+            "lat": "-21.775123",
+            "lng": "-43.368941"
+        },
+        {
+            "nome":"Gabrielz vaz",
+            "instituicao":"CEULP/ULBRA Centro Universitário Luterano de Palmas",
+            "lat": "-10.278012",
+            "lng": "-48.333363"
+        },
+        {
+            "nome":"Marcelo Ap. Ferreira Pinheiro",
+            "instituicao":"PUCPR Pontifícia Universidade Católica do Paraná",
+            "lat": "-25.452154",
+            "lng": "-49.249756"
+        },
+        {
+            "nome":"Maximillian Xavier",
+            "instituicao":"Universidade Católica de Brasília",
+            "lat": "-15.741775",
+            "lng": "-47.903267"
+        },
+        {
+            "nome":"Juliano Theiss",
+            "instituicao":"IFC - Instituto Federal Catarinense Campus Camboriu",
+            "lat": "-27.015642",
+            "lng": "-48.658893"
+        },
+        {
+            "nome":"Jordan Lira",
+            "instituicao":"UFPB Universidade Federal da Paraíba",
+            "lat": "-7.1419849",
+            "lng": "-34.8466809"
+        },
+        {
+            "nome":"Raul Carlos de Almeida Junior",
+            "instituicao":"USP Universidade de São Paulo",
+            "lat": "-23.561384",
+            "lng": "-46.730810"
+        },
+        {
+            "nome":"Eduardo Emery",
+            "instituicao":"UPE Universidade de Pernambuco",
+            "lat": "-8.044206",
+            "lng": "-34.886521"
+        },
+        {
+            "nome":"Alexandre Souza",
+            "instituicao":"Faculdade de Tecnologia e Ciências (FTC-EAD)",
+            "lat": "-12.971049",
+            "lng": "-38.512953﻿"
+        },
+        {
+            "nome":"Mateus Cunha",
+            "instituicao":"UVA Universidade Veiga de Almeida",
+            "lat": "-22.911667",
+            "lng": "-43.220833"
+        },
+        {
+            "nome":"Leonardo Barbosa",
+            "instituicao":"Instituto Federal de Sergipe",
+            "lat": "-10.9385556",
+            "lng": "-37.6577898"
+        },
+        {
+            "nome":"Stefan Wysocki",
+            "instituicao":"UFABC Universidade Federal do ABC",
+            "lat": "-23.645653",
+            "lng": "-46.527251"
+        },
+        {
+            "nome":"Lucas Bressan de Andrade",
+            "instituicao":"UFRJ Universidade Federal do Rio de Janeiro",
+            "lat": "-22.954106",
+            "lng": "-43.175364"
+        },
+        {
+            "nome":"Cleber Santana",
+            "instituicao":"UFABC Universidade Federal do ABC",
+            "lat": "-23.646151",
+            "lng": "-46.527757"
+        },
+        {
+            "nome":"Alexandre Creto",
+            "instituicao":"UNICAMP - Universidade de Campinas",
+            "lat": "-22.8180743",
+            "lng": "-47.0661774﻿"
+        },
+        {
+            "nome":"Felipe Porge Xavier",
+            "instituicao":"IFPB Instituto Federal da Paraíba",
+            "lat": "-7.131880",
+            "lng": "-34.881598"
+        },
+        {
+            "nome":"Gabriel Martins",
+            "instituicao":"UFU Universidade Federal de Uberlândia",
+            "lat": "-18.918136",
+            "lng": "-48.260278"
+        },
+        {
+            "nome":"Tiago Rezende Campos Falcão",
+            "instituicao":"UNICAMP - Universidade de Campinas",
+            "lat": "-22.813496",
+            "lng": "-47.063942"
+        },
+        {
+            "nome":"Tiago Anozé Emerick",
+            "instituicao":"Universidade Católica de Brasília",
+            "lat": "-15.741538",
+            "lng": "-47.903235"
+        },
+        {
+            "nome":"Fernando Rubio",
+            "instituicao":"ITESM Guadalajara",
+            "lat": "20.732877",
+            "lng":-"103.454325"
+        },
+        {
+            "nome":"Anayara Arias",
+            "instituicao":"Universidad Autónoma de Baja California",
+            "lat": "32.532809",
+            "lng": "-116.965645"
+        },
+        {
+            "nome":"Octavio Jiménez Blanco",
+            "instituicao":"Universidad Panamericana",
+            "lat": "19.373647",
+            "lng": "-99.183704"
+        },
+        {
+            "nome":"Maria Beltran",
+            "instituicao":"Universidad Panamericana",
+            "lat": "19.374103",
+            "lng": "-99.183704"
+        },
+        {
+            "nome":"Juan Manuel Guerrero",
+            "instituicao":"ITESM campus laguna",
+            "lat": "25.516738",
+            "lng": "-103.398175"
+        },
+        {
+            "nome":"Guillermo Vera",
+            "instituicao":"UNAM",
+            "lat": "19.322168",
+            "lng":-"99.182282"
+        },
+        {
+            "nome":"Ricardo Rodarte",
+            "instituicao":"Universidad Anáhuac México Norte",
+            "lat": "19.401899",
+            "lng":-"99.2639"
+        },
+        {
+            "nome":"Víctor Colín Amador",
+            "instituicao":"Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Estado de México",
+            "lat": "19.5890847",
+            "lng":-"99.2181056"
+        },
+        {
+            "nome":"Diego Andres Solorzano Garcia",
+            "instituicao":"CETYS ",
+            "lat": "31.855171",
+            "lng": "-116.598587"
+        },
+        {
+            "nome":"José Ernesto Díaz Martínez",
+            "instituicao":"Tecnológico de Monterrey Campus Morelia",
+            "lat": "19.656209",
+            "lng": "-101.163838"
+        },
+        {
+            "nome":"Gerardo Espinoza ",
+            "instituicao":"ITESM GDA",
+            "lat": "20.734559",
+            "lng":-"103.455709"
+        },
+        {
+            "nome":"Rosaura Guadalupe Vidal Mata",
+            "instituicao":"ITESM Campus Cuernavaca",
+            "lat": "18.806020",
+            "lng": "-99.221660"
+        },
+        {
+            "nome":"Andrés Zavala",
+            "instituicao":"Universidad Tecnológica de Morelia",
+            "lat": "19.726655",
+            "lng":-"101.162367"
+        },
+        {
+            "nome":"Eduardo Sanchez",
+            "instituicao":"Upaep",
+            "lat": "19.048443",
+            "lng": "-98.216524"
+        },
+        {
+            "nome":"Alexis Rangel",
+            "instituicao":"Universidad Iberoamericana Tijuana",
+            "lat": "32.518468",
+            "lng": "-117.100857"
+        },
+        {
+            "nome":"Enrique Marroquin",
+            "instituicao":"Tecnologico de Monterrey Campus Monterey",
+            "lat": "25.651778",
+            "lng": "-100.289572"
+        },
+        {
+            "nome":"Josemaria Moya",
+            "instituicao":"CETYS ",
+            "lat": "32.53333",
+            "lng": "-117.01667"
+        },
+        {
+            "nome":"Eduardo Andrés Dorador Vázquez",
+            "instituicao":"Universidad De La Salle Bajio",
+            "lat": "21.151893",
+            "lng": "-101.712571"
+        },
+        {
+            "nome":"Uriel Luviano",
+            "instituicao":"UNAM",
+            "lat": "19.324994",
+            "lng": "-99.1856"
+        },
+        {
+            "nome":"Luis Carlo García Duarte",
+            "instituicao":"Universidad de Colima",
+            "lat": "19.248687",
+            "lng": "-103.698612"
+        },
+        {
+            "nome":"Jair Said Hernández Reyes",
+            "instituicao":"Escuela Superior de Cómputo",
+            "lat": "19.504569",
+            "lng":-"99.146653"
+        },
+        {
+            "nome":"Eduardo Escamilla",
+            "instituicao":"Tec de Monterrey",
+            "lat": "28.6735918",
+            "lng":-"106.0765903"
+        },
+        {
+            "nome":"Jose Luis Ramos Fernandez",
+            "instituicao":"Instituto Tecnologico de la Laguna",
+            "lat": "25.533279210710607",
+            "lng":-"103.43596899140164"
+        },
+        {
+            "nome":"Max Curiel",
+            "instituicao":"UDG",
+            "lat": "20.76125",
+            "lng":-"103.378816"
+        },
+        {
+            "nome":"César Islas",
+            "instituicao":"UNAM",
+            "lat": "19.331354",
+            "lng": "-99.184491"
+        },
+        {
+            "nome":"Daniel Seiji Ohara Kondo",
+            "instituicao":"Instituto Tecnológico y Estudios Superiores de Monterrey - Campus Santa Fe",
+            "lat": "19.359479",
+            "lng":-"99.258127"
+        },
+        {
+            "nome":"Angel Rodolfo Perez Quintana",
+            "instituicao":"Universidad Nacional Autonoma de Mexico ",
+            "lat": "19.325001",
+            "lng": "-99.185605"
+        },
+        {
+            "nome":"David I.Ruiz",
+            "instituicao":"Benemerita Universidad Autonoma de Puebla",
+            "lat": "19.004489",
+            "lng": "-98.203580"
+        },
+        {
+            "nome":"Gabriela Lopez",
+            "instituicao":"UABC",
+            "lat": "32.632633",
+            "lng": "-115.445882"
+        },
+        {
+            "nome":"Lucia Berlanga",
+            "instituicao":"Universidad Iberoamericana",
+            "lat": "19.371845",
+            "lng": "-99.263574"
+        },
+        {
+            "nome":"Jonathan Reyes López",
+            "instituicao":"Instituto Tecnológico y de Estudios Superiores de Monterrey - Campus Ciudad de México",
+            "lat": "19.283575",
+            "lng": "-99.136338"
+        },
+        {
+            "nome":"Nora Naranjo",
+            "instituicao":"CETYS Universidad - Campus Mexicali",
+            "lat": "32.655766",
+            "lng": "-115.408330"
+        },
+        {
+            "nome":"Daniel Villarreal",
+            "instituicao":"Instituto Tecnológico de Sonora",
+            "lat": "27.967944",
+            "lng": "-110.920222"
+        },
+        {
+            "nome":"Rodolfo Ferro",
+            "instituicao":"Universidad de Guanajuato",
+            "lat": "21.041264",
+            "lng": "-101.260805"
+        },
+        {
+            "nome":"Paulina Alarcón",
+            "instituicao":"Tecnológico de Monterrey campus Estado de México",
+            "lat": "19.594379",
+            "lng": "-99.227911"
+        },
+        {
+            "nome":"Mario Sugus",
+            "instituicao":"UNAM",
+            "lat": "19.335513",
+            "lng": "-99.188115"
+        },
+        {
+            "nome":"Nagore Vidan",
+            "instituicao":"Tecnologico de Monterrey Camous Cuernavaca",
+            "lat": "18.805700",
+            "lng": "-99.221594"
+        },
+        {
+            "nome":"Bruno Barrera Yever",
+            "instituicao":"UNAM",
+            "lat": "19.3251044",
+            "lng": "-99.2144704"
+        }
+    ]
+}
