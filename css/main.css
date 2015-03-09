@@ -111,6 +111,7 @@ header ul {
 .social .addthis_button_twitter:hover {background-position:2px 1px;width:45px;float: left;}
 .social .addthis_button_google_plusone_share:hover {background-position:-93px 1px;width:45px;float: left;}
 .social .github:hover {background-position:-140px 1px;width:45px;float: left;}
+.social .at4-icon {background:transparent!important;}
 
 /* MAPA MUNDI */
 #mapa-mundi { 
